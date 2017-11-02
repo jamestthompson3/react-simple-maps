@@ -49,6 +49,7 @@
   "dependencies": {
     "d3-geo": "1.6.3",
     "d3-geo-projection": "1.2.2",
+    "d3-time": "^1.0.7",
     "topojson-client": "2.1.0"
   }
 }
